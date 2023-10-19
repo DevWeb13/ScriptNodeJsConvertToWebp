@@ -13,7 +13,7 @@ Un script simple en Node.js pour convertir toutes les images d'un dossier en for
 1. **Installation**:
 
    - Assurez-vous d'avoir Node.js installé sur votre machine.
-   - Clonez ce dépôt: `git clone [lien_du_depot](https://github.com/DevWeb13/ScriptNodeJsConvertToWebp)`.
+   - Clonez ce dépôt: `git clone https://github.com/DevWeb13/ScriptNodeJsConvertToWebp`.
    - Dans le dossier du projet, installez les dépendances nécessaires avec: `npm install`.
 
 2. **Configuration**:
